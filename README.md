@@ -1,7 +1,11 @@
 ![logo](https://github.com/Naba-skcn/Naba-skcn/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Sayma Khorshed Chowdhury</h1>
-<h3 align="center">Passionate Junior Web Developer and Full-Stack enthusiast.</h3>
+<h1 align="center">About Me</h1>
+<h3 align="center">👋 Hi, I'm Sayma Khorshed Chowdhury, a Junior Web Developer and Full-Stack enthusiast passionate about coding and collaboration. Skilled in HTML, JavaScript, and ReactJS, I thrive in dynamic environments where creativity and problem-solving come together to create seamless digital experiences.
+
+💡 Let's transform ideas into reality. Whether it's building sleek interfaces or robust front-end and back-end systems, I'm here to collaborate and innovate.
+
+📧 saymakhorshed01@gmail.com | 📞 01759502121</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
